@@ -1,0 +1,11 @@
+oath -->open authentication--> authentication will be happen at one place.
+
+fedetrated Authentication-->authentication will be happen at one place.
+
+grant types:
+
+   Authorization code
+   Password
+   Client credentials
+   Refresh Token
+

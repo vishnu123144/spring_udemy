@@ -1,0 +1,88 @@
+Java OOPS
+-Abstraction 
+-Inheritance
+-Encapsulation
+-Thread
+
+Spring
+-Dependency Injection and how to achieve?
+-Singleton and prototype
+-Request flow
+
+SQL
+-Difference between procedure and function?
+-SQL query to fetch the details of Employee and department table where department id is foreign key?
+-Primary key and unique key
+-----------
+java)
+1) Overriding overloading, (increasing and decreasing of scopes, access specifiers)(imp: private specifiers)
+2) passby value pass by reference
+3) jdk jre jvm
+4) abstraction
+5) singleton pattern complete explaination
+
+6) maven build, clean install etc how do they work, what to do if i want to change m2's location elsewhere.
+6.2) how does dependencies get downloaded.
+7) how to deploy to servers, what is there in war file, 
+what if there is a problem in deploying war file, what will you check
+7.2) what if i want war file in different location. what will you do at the time of building war file?
+
+8) what is rest? explain restful web service, 
+9) can you create a standalone application?
+10) explain springboot and diff bw it and spring
+---------------------------
+1. breifly explain oops concept
+2. what is overloading? what is overriding?
+3. what is dependency injection? types of DI
+4. what are the collections you have used? (Array and Linked difference)
+5. what is string pool?
+6. what is bean scope?
+7. what is the difference between string and string builder?
+8. what is thread? how to create a thread in java?
+9. what is @RestController?
+10. Exceptions in spring.
+11. Do you know PLSql?
+12. HAVING and WHERE clause
+13. sql query- consists of location="PUNE,BLR,MUMBAI",name,id retrieve data based on location and count (use groupby)
+14. sql query- table:employee-> id,name table:depart->id,name id is the foreign key in dept. Retrieve their data 
+
+-----------------------------------------
+1.what is lambda Expression?
+2.who is responsible to fulfilled autowired bean?
+3.what is self join?
+4.what is the marker interface?
+5.what is ACID properties?
+6.what is string constant pool?
+7.String abc = "12345"; we need to reverse the sequence like "54321"
+and how many objects are created during this process?
+8.web server vs application server?
+9.servlet life cycle?
+10.
+-------------------------------------
+1. what is java,OOPS?
+2. what is Inheritence?
+3. How to create a Thread in Java?
+4. What is dependency injection and types?
+5. What happens when exception thrown by a main method?
+6. What is RestController?
+7. what is hibernate in spring boot?
+8. What are spring boot key components?
+9. What are the different type of maven repository?
+10.What are the different phase of default life cycle?
+--------------------------------------
+1.what is self join?
+2.what is the marker interface?
+3.what is ACID properties?
+4.String abc = "12345"; we need to reverse the sequence like "54321" and how many objects are created during this process?
+5.servlet life cycle?
+6.can we override main method?
+7. About ArrayList 
+8. For example : I have a arraylist with 10 element then i am adding 2 more element what will happen?
+9. Any agreement  between hashcode and equals methode ?
+10. for example : A mobile application is doing the entry of person name and he's login time into table
+tabename-- logger
+fields : login_name, timestamp
+Write a query which will give a report of Name, logintime and logout-time
+
+11. for example :if parent class is throwing checked exception then child class will throw any exception? 
+12.What is Composite key in SQL?
